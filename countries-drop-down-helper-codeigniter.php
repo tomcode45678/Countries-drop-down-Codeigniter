@@ -95,6 +95,7 @@ $config['country_list'] = array(
 	"IN"=>"India",
 	"ID"=>"Indonesia",
 	"IE"=>"Ireland",
+	"IR"=>"Islamic Republic of Iran",
 	"IL"=>"Israel",
 	"IT"=>"Italy",
 	"CI"=>"Ivory Coast",
